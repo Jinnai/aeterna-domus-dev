@@ -7,7 +7,7 @@
         "schemaVersion": 2,
         "id": "aeterna-domus",
         "name": "Aeterna Domus",
-        "version": "0.1.4-dev.2",
+        "version": "0.1.4-dev.3",
         "description": "A deterministic Roman-inspired House, estate, personnel, and political tycoon RPG experience.",
         "engine": {
           "min": "2.4.1",
@@ -46,8 +46,8 @@
         "files": [
           {
             "path": "client.js",
-            "sha256": "0c7f09060d0aaa853d56fb4986ba604b6671b3319ca1cd28327390f9b3f000ab",
-            "bytes": 18511
+            "sha256": "afcdbc83d0338692927bcb12fdda54d6482580739c18c8dc7d950eea5333460c",
+            "bytes": 23742
           },
           {
             "path": "domain.mjs",
@@ -63,9 +63,9 @@
       },
       "category": "misc",
       "artifact": {
-        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/79ebc80da94687563d5b74794031743cdf0f11ed/artifacts/aeterna-domus-0.1.4-dev.2.zip",
-        "sha256": "5b0d1c535126d1013d7735598326bbf14ac7c8d0ef135f5f3c59a2878ed2b88e",
-        "bytes": 17261
+        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/edf7dbc034eb211d8065c49627a4b5dc1821d5f1/artifacts/aeterna-domus-0.1.4-dev.3.zip",
+        "sha256": "403c0d6cc583517134e3df9d621e04469412f7ac8ae6b2df38f589bf833b3202",
+        "bytes": 18615
       }
     }
   ]
