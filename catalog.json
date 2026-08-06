@@ -13,18 +13,27 @@
           "min": "2.4.1",
           "maxExclusive": "3.0.0"
         },
-        "kind": ["agent"],
+        "kind": [
+          "agent"
+        ],
         "entrypoints": {
           "server": "server.mjs",
           "client": "client.js"
         },
         "contributions": {
-          "slots": ["game-surface"],
+          "slots": [
+            "game-surface"
+          ],
           "gameSurface": {
             "surfaceClass": "aeterna-domus-game"
           }
         },
-        "permissions": ["prompt-context", "routes", "storage", "ui"],
+        "permissions": [
+          "prompt-context",
+          "routes",
+          "storage",
+          "ui"
+        ],
         "restartRequired": true,
         "capabilityApi": {
           "major": 1,
@@ -37,8 +46,8 @@
         "files": [
           {
             "path": "client.js",
-            "sha256": "2b95bdee04114255e4c55a2aaf1a9c7fd5bd6c84d5c4ce9da415916c0595b3ca",
-            "bytes": 18383
+            "sha256": "0c7f09060d0aaa853d56fb4986ba604b6671b3319ca1cd28327390f9b3f000ab",
+            "bytes": 18511
           },
           {
             "path": "domain.mjs",
