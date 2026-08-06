@@ -7,7 +7,7 @@
         "schemaVersion": 2,
         "id": "aeterna-domus",
         "name": "Aeterna Domus",
-        "version": "0.1.4-dev.1",
+        "version": "0.1.4-dev.2",
         "description": "A deterministic Roman-inspired House, estate, personnel, and political tycoon RPG experience.",
         "engine": {
           "min": "2.4.1",
