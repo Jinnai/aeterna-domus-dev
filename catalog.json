@@ -7,7 +7,7 @@
         "schemaVersion": 2,
         "id": "aeterna-domus",
         "name": "Aeterna Domus",
-        "version": "0.1.4-dev.4",
+        "version": "0.1.4-dev.5",
         "description": "A deterministic Roman-inspired House, estate, personnel, and political tycoon RPG experience.",
         "engine": {
           "min": "2.4.1",
@@ -42,13 +42,13 @@
         },
         "builtAgainst": {
           "engineVersion": "2.4.1",
-          "engineCommit": "be0a95954f5b296aba33777c48f2d5520741368e"
+          "engineCommit": "bfec701e790bf52d2892d19d722571c5738ebf00"
         },
         "files": [
           {
             "path": "client.js",
-            "sha256": "4f72161f98da280a4a5852f992f13b362453dd863fddd28f86487c2b536ffc7b",
-            "bytes": 24210
+            "sha256": "75a81617cc14145cd0cd4a40a3100dc89368a4806cd54669fb8753b356dc5e2c",
+            "bytes": 27252
           },
           {
             "path": "domain.mjs",
@@ -64,9 +64,9 @@
       },
       "category": "misc",
       "artifact": {
-        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/f8e1c7dba6a7bdfba0109f1d2184c82c6e8bbee6/artifacts/aeterna-domus-0.1.4-dev.4.zip",
-        "sha256": "6856a258ff9bba4124dbffdc3925b5f97fae50f93af5edfaa118c8dfff88842a",
-        "bytes": 19244
+        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/680481d1ae461032604e67095b8dc87bb8c5bf83/artifacts/aeterna-domus-0.1.4-dev.5.zip",
+        "sha256": "65218ee6eeaa5dfbd2827fbaf06c85516ea54dad9cdf2a8cf6e69478c500696d",
+        "bytes": 19956
       }
     }
   ]
