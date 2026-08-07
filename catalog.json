@@ -7,7 +7,7 @@
         "schemaVersion": 2,
         "id": "aeterna-domus",
         "name": "Aeterna Domus",
-        "version": "0.1.4-dev.3",
+        "version": "0.1.4-dev.4",
         "description": "A deterministic Roman-inspired House, estate, personnel, and political tycoon RPG experience.",
         "engine": {
           "min": "2.4.1",
@@ -25,7 +25,8 @@
             "game-surface"
           ],
           "gameSurface": {
-            "surfaceClass": "aeterna-domus-game"
+            "surfaceClass": "aeterna-domus-game",
+            "setupMode": "deterministic"
           }
         },
         "permissions": [
@@ -37,35 +38,35 @@
         "restartRequired": true,
         "capabilityApi": {
           "major": 1,
-          "minor": 8
+          "minor": 9
         },
         "builtAgainst": {
           "engineVersion": "2.4.1",
-          "engineCommit": "084baaf5b10a5c7646a0e6ea396aae015a0fff43"
+          "engineCommit": "be0a95954f5b296aba33777c48f2d5520741368e"
         },
         "files": [
           {
             "path": "client.js",
-            "sha256": "afcdbc83d0338692927bcb12fdda54d6482580739c18c8dc7d950eea5333460c",
-            "bytes": 23742
+            "sha256": "4f72161f98da280a4a5852f992f13b362453dd863fddd28f86487c2b536ffc7b",
+            "bytes": 24210
           },
           {
             "path": "domain.mjs",
-            "sha256": "4cc33dfac3d1ef8fc1f7ba58b08377b50bbb7cc24a8867473603218c10c20b30",
-            "bytes": 32816
+            "sha256": "fcd58bac9698c9e61ee082b501c047bdf58299f8ec4435ca20d631d7e486eae2",
+            "bytes": 34453
           },
           {
             "path": "server.mjs",
-            "sha256": "ae48a36d77619aca784315da279b3282b688b84cef495a4fe8bf9b6a88f4a02f",
-            "bytes": 7097
+            "sha256": "0ef9e36a0ae25f4d7b782d70367709662eb0112f8b285b1e02cf1ac69b09b19c",
+            "bytes": 7133
           }
         ]
       },
       "category": "misc",
       "artifact": {
-        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/edf7dbc034eb211d8065c49627a4b5dc1821d5f1/artifacts/aeterna-domus-0.1.4-dev.3.zip",
-        "sha256": "403c0d6cc583517134e3df9d621e04469412f7ac8ae6b2df38f589bf833b3202",
-        "bytes": 18615
+        "url": "https://raw.githubusercontent.com/Jinnai/aeterna-domus-dev/f8e1c7dba6a7bdfba0109f1d2184c82c6e8bbee6/artifacts/aeterna-domus-0.1.4-dev.4.zip",
+        "sha256": "6856a258ff9bba4124dbffdc3925b5f97fae50f93af5edfaa118c8dfff88842a",
+        "bytes": 19244
       }
     }
   ]
